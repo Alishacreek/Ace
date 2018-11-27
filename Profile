@@ -1,1 +1,1 @@
-eyzalts: node app.js
+eyzalts: node ventuz.js
